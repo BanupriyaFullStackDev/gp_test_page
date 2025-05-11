@@ -1,2 +1,2 @@
 const app = document.getElementById('app');
-app.innerHTML = '<button>Click Me</button>'
+app.innerHTML = '<button onclick=alert("hi")>Click Me</button>'
